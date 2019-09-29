@@ -243,7 +243,7 @@ const SHOP_DATA = {
         price: 25
       }
     ]
-  }
+  },
 };
 
 export default SHOP_DATA;
